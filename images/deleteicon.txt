@@ -1,7 +1,1 @@
-<table>
-  <tr>
-    <td><img src="images/deleteicon.png" alt="delete"></td>
-    <td><img src="images/editicon.png" alt="edit"></td>
-    <td><img src="images/notesicon.png" alt="notes"></td>
-  </tr>
-</table>
+
